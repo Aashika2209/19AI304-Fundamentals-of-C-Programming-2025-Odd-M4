@@ -408,7 +408,8 @@ int main(){
 
 ```
 # Output:
-![Uploading image.png…]()
+
+<img width="674" height="456" alt="Screenshot 2025-11-19 113648" src="https://github.com/user-attachments/assets/1c9c6d53-494d-4533-a729-2b47e05e940c" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.

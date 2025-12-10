@@ -330,11 +330,7 @@ void spiralPrint(int m, int n, int a[R][C]){
 
 int main(){
     int a[R][C] = {
-        {1, 2, 3, 4},
-        {5, 6, 7, 8},
-        {9, 10, 11, 12},
-        {13, 14, 15, 16}
-    };
+        {1, 2, 3, 4},{5, 6, 7, 8},{9, 10, 11, 12},{13, 14, 15, 16}};
 
     spiralPrint(R, C, a);
 
@@ -343,7 +339,8 @@ int main(){
 
 ```
 # Output:
-<img width="674" height="456" alt="image" src="https://github.com/user-attachments/assets/a2effe4f-1d8a-4e9b-a864-d90040e68dd2" />
+<img width="691" height="382" alt="image" src="https://github.com/user-attachments/assets/75de66c6-6d5b-4628-8de3-ec0e971ba8e7" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.

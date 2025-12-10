@@ -339,7 +339,7 @@ int main(){
 
 ```
 # Output:
-<img width="691" height="382" alt="image" src="https://github.com/user-attachments/assets/75de66c6-6d5b-4628-8de3-ec0e971ba8e7" />
+<img width="631" height="328" alt="image" src="https://github.com/user-attachments/assets/6595b196-0416-4c2c-bf15-66fc1ad4346c" />
 
 
 # Result: 
